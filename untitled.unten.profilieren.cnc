@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../FreeSmoke nano 2.0/untitled.brd)
 (Current profile is .../EAGLE-5.11.0/ulp/profiles/mach.pp  )
-(This file generated 01.06.2012 00:04:32)
+(This file generated 04.06.2012 17:07:15)
 (Settings from pcb-machine.h)
 (  Tool Size)
 (1.3000  )

@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../FreeSmoke nano 2.0/untitled.brd)
 (Current profile is .../EAGLE-5.11.0/ulp/profiles/mach.pp  )
-(This file generated 01.06.2012 00:04:31)
+(This file generated 04.06.2012 17:07:15)
 (Settings from pcb-machine.h)
 (  Tool Size)
 (0.1000  )
@@ -255,16 +255,16 @@ G00 Z2.0000
 G00 X-26.6700 Y39.3700 
 G01 Z-1.5000 F250   
 G00 Z2.0000  
+G00 X-59.6900 Y30.4800 
+G01 Z-1.5000 F250   
+G00 Z2.0000  
+G00 X-59.6900 Y33.0200 
+G01 Z-1.5000 F250   
+G00 Z2.0000  
 G00 X-59.6900 Y35.5600 
 G01 Z-1.5000 F250   
 G00 Z2.0000  
 G00 X-59.6900 Y38.1000 
-G01 Z-1.5000 F250   
-G00 Z2.0000  
-G00 X-59.6900 Y40.6400 
-G01 Z-1.5000 F250   
-G00 Z2.0000  
-G00 X-59.6900 Y43.1800 
 G01 Z-1.5000 F250   
 G00 Z2.0000  
 G00 X-68.5800 Y49.5300 
